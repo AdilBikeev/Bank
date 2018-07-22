@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>images/сумма вклада(фон) — копия.jpg</file>
+        <file>images/сумма вклада(фон).jpg</file>
+        <file>images/сумма вклада.jpg</file>
+        <file>images/фон_игры.jpg</file>
+        <file>images/Кнопка регистрации.jpg</file>
+        <file>images/Авторизация.jpeg</file>
+    </qresource>
+</RCC>

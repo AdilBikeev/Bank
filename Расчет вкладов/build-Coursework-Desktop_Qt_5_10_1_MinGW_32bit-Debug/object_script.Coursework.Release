@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\contribution.o
+./release\autification.o
+./release\authorization.o
+./release\qrc_resource.o
+./release\moc_mainwindow.o
+./release\moc_contribution.o
+./release\moc_autification.o
+./release\moc_authorization.o
+);

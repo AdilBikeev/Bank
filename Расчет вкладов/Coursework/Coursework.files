@@ -1,0 +1,12 @@
+Coursework.pro
+contribution.cpp
+contribution.h
+contribution.ui
+main.cpp
+mainwindow.cpp
+mainwindow.h
+mainwindow.ui
+resource.qrc
+valute.cpp
+valute.h
+valute.ui

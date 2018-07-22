@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\contribution.o
+./debug\autification.o
+./debug\authorization.o
+./debug\qrc_resource.o
+./debug\moc_mainwindow.o
+./debug\moc_contribution.o
+./debug\moc_autification.o
+./debug\moc_authorization.o
+);
